@@ -1,8 +1,8 @@
 {
   "name": "etb",
-  "version": "3.3.3",
+  "version": "3.3.5",
   "author": "Embedded77",
-  "description": "ETBv3.3.3",
+  "description": "ETBv3.3.5",
   "main": "index.js",
   "license": "ISC",
   "dependencies": {
@@ -17,8 +17,7 @@
     "node-fetch": "^2.6.1",
     "quickchart-js": "^1.0.6",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6",
-    "sqlite3": "^5.0.2"
+    "request-promise": "^4.2.6"
   },
   "bin": {
     "repair": "./repair.js"
