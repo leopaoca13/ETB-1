@@ -19,7 +19,7 @@ var projected_ratio = 0.2
 var robux_ratio_send = 0.001 // dont touch if dont know what doing
 var testmode = false
 var custom_values = {}
-  
+   
 var USER_ID = 2484126733 // YOUR USERID ON ROBLOX
 var upgbias = 0 // DO NOT TOUCH THIS UNLESS EMBEDDED SAYS YOU SHOULD...
 var plugger9000_enabled = true // set to true if you want the bot to plug
