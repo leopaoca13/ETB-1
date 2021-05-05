@@ -17,7 +17,7 @@ var MAX_ITEMS = 99999999 // THE MAX NUMBER OF ITEMS YOU CAN HAVE BEFORE IT START
 var use_robux = true
 var projected_ratio = 0.3
 var robux_ratio_send = 0.001 // dont touch if dont know what doing
-var testmode = true
+var testmode = false
 var custom_values = {}
   
 var USER_ID = 895445660 // YOUR USERID ON ROBLOX
