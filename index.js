@@ -48,7 +48,7 @@ var autoregeninterval=43200000
 var imagestyle = "wide" // wide, tall, or none
 var owned_proj_ratio=0.9 // DONT TOUCH IF NOT KNOW WHAT DOING. THIS IS MULTIPLIED BY YOUR PROJECTEDS
 
-
+var dontcheckoutbound =true
 
 
 
