@@ -1,8 +1,8 @@
 {
   "name": "etb",
-  "version": "3.3.6",
+  "version": "3.5.1",
   "author": "Embedded77",
-  "description": "ETBv3.3.6",
+  "description": "ETBv3.5.1",
   "main": "index.js",
   "license": "ISC",
   "dependencies": {
@@ -18,6 +18,5 @@
     "quickchart-js": "^1.0.6",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
-  },
-  "devDependencies": {}
+  }
 }
