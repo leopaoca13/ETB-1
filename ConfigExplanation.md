@@ -100,7 +100,7 @@
 ⠀
 #### custom_values
 ###### This will assign a value to an item. 
-```
+```js
 {
     "itemid1":value,
     "itemid2":100000
