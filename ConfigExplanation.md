@@ -82,6 +82,33 @@
  ⠀
 #### reset_already_sent_interval
 ###### The time in milliseconds before it'll reset the list of users its already sent to. 
-
+⠀
+#### MAX_ITEMS
+###### If this number is less than the number of items in your inventory, the bot will downgrade. If it is = to or higher the bot will upgrade
+⠀
+#### use_robux
+###### Whether it should add robux to the trades
+⠀
+#### projected_ratio
+###### How much it should give for projecteds
+⠀
+#### robux_ratio_send
+###### A ratio which is multiplied by your robux to change its value. If I had 1k robux, and set this to 1.2 it would value the 1k as 1.2k when trading it.
+⠀
+#### testmode
+###### When this is set to true, the bot will only queue trades, and will not send
+⠀
+#### custom_values
+###### This will assign a value to an item. 
+```js
+{
+    "itemid1":true,
+    "itemid2":true
+}
+```
+ ⠀
+ #### accept_ratio
+ ###### This ratio determines which inbounds the bot will accept
+ ⠀
  
   
