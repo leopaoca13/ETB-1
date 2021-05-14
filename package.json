@@ -1,14 +1,15 @@
 {
-  "name": "etb",
-  "version": "3.5.1",
+  "name": "ETB",
+  "version": "3.6.1",
   "author": "Embedded77",
-  "description": "ETBv3.5.1",
+  "description": "A tradebot by Embedded77#1367",
   "main": "index.js",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.1",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
+    "electron": "^12.0.7",
     "envfile": "^6.14.0",
     "express": "^4.17.1",
     "fuzzy-search": "^3.2.1",
@@ -17,6 +18,10 @@
     "node-fetch": "^2.6.1",
     "quickchart-js": "^1.0.6",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
-  }
+    "request-promise": "^4.2.6",
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {}
 }
