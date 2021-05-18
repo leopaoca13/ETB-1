@@ -1,11 +1,14 @@
 {
-  "DISCORD_ID": "693482849914847282",
-  "CMDS": "770768441614532688",
+  "proxies":["https://trades.roblox.com"],
+  "note":"DO NOT REMOVE TRADES.ROBLOX.COM FROM THE ABOVE OR IT WILL NOT SEND",
+  "cantsendinterval":3000,
+  "DISCORD_ID": "",
+  "CMDS": "",
   "notifs": [
-    "819560203284512809"
+    ""
   ],
-  "NOTIF_CHANNEL": "775072489386016768",
-  "TRADE_CHANNEL": "775072489386016768",
+  "NOTIF_CHANNEL": "",
+  "TRADE_CHANNEL": "",
   "colors": {
     "inbound": "GREEN",
     "declined": "RED",
@@ -22,7 +25,7 @@
   "projected_ratio": 0.3,
   "robux_ratio_send": 0.001,
   "testmode": false,
-  "custom_values": {"1365767":190000},
+  "custom_values": {},
   "accept_ratio": 1.1,
   "USER_ID": 895445660,
   "upgbias": 0,
@@ -56,13 +59,14 @@
     "51241480": true
   },
   "keep_images": true,
-  "DONOTTRADE": {"1587175771":true},
+  "DONOTTRADE": {"1587175771":true,"4390890198":true,"193696233":true,"527365852":true},
   "getridoffast": {},
   "fuckrares": true,
-  "rewrite_to_end_if_ratelimited": false,
-  "upgrading_ratio": 0.9,
+  "rewrite_to_end_if_ratelimited": true,
+  "upgrading_ratio": 0.8,
   "upgrading_max_ratio": 1,
   "onlytradefor": false,
+  "sendinterval":5000,
   "onlytradeforarray": {
     "1125510": true,
     "71499623": true,
