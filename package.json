@@ -1,6 +1,6 @@
 {
   "name": "ETB",
-  "version": "3.6.1",
+  "version": "3.7",
   "author": "Embedded77",
   "description": "A tradebot by Embedded77#1367",
   "main": "index.js",
@@ -21,7 +21,7 @@
     "request-promise": "^4.2.6"
   },
   "scripts": {
-    "start": "electron ."
+    "start": "npm install && node index.js && electron . "
   },
   "devDependencies": {}
 }
