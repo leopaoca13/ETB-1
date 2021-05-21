@@ -1,6 +1,6 @@
 {
   "name": "ETB",
-  "version": "3.7",
+  "version": "3.7.0",
   "author": "Embedded77",
   "description": "A tradebot by Embedded77#1367",
   "main": "index.js",
