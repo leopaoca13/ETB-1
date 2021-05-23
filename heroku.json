@@ -1,0 +1,28 @@
+{
+    "name": "ETB-heroku",
+    "version": "0.1.0",
+    "author": "",
+    "description": "",
+    "main": "index.js",
+    "license": "ISC",
+    "dependencies": {
+      "chalk": "^4.1.1",
+      "discord.js": "^12.5.1",
+      "dotenv": "^8.2.0",
+      "electron": "^12.0.7",
+      "envfile": "^6.14.0",
+      "express": "^4.17.1",
+      "fuzzy-search": "^3.2.1",
+      "jimp": "^0.16.1",
+      "moment": "^2.29.1",
+      "node-fetch": "^2.6.1",
+      "quickchart-js": "^1.0.6",
+      "request": "^2.88.2",
+      "request-promise": "^4.2.6"
+    },
+    "scripts":{
+      "start":"node index.js"
+    },
+    "bin": "bin.js"
+  }
+  
