@@ -1,6 +1,6 @@
 {
-    "name": "ETB-heroku",
-    "version": "0.1.0",
+    "name": "ETB",
+    "version": "3.9.0",
     "author": "",
     "description": "",
     "main": "index.js",
