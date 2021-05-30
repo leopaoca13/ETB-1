@@ -21,7 +21,7 @@
     "request-promise": "^4.2.6"
   },
   "scripts": {
-    "start": "npm install && node index.js && electron . "
+    "start": "npm install && node index.js"
   },
   "devDependencies": {}
 }
