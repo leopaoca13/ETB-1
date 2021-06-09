@@ -7,14 +7,16 @@ https://discord.gg/qcDQ7CCS88
 
 Copyright (c) 2021 Embedded77
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use the Software, including the rights
+Permission is hereby granted, to any person having purchased a whitelist from Embedded77, 
+this software and associated documentation files (the "Software"), to use the Software, including the rights
 to use and modify but not copy, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software. 
+
+You may not use this without having purchased a whitelist from Embedded77, the creator.
 
 ANY COPIES OF THIS SOFTWARE MUST RETAIN THIS COPYRIGHT AS WELL AS ANY OF ITS MARKING, LINKS, OR SIGNATURES OF ANY KIND.
 
