@@ -3,7 +3,7 @@
 ## How to run: If in replit, just press run button. If not in replit, run cmd is npm start
 This is by Embedded77#1367. 
 
-https://discord.gg/qcDQ7CCS88
+https://discord.gg/FRJj3eJFJJ
 
 Copyright (c) 2021 Embedded77
 
