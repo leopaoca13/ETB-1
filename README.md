@@ -1,6 +1,5 @@
-# ETB v3.4
+# ETB v4
 
-## How to run: If in replit, just press run button. If not in replit, run cmd is npm start
 This is by Embedded77#1367. 
 
 https://discord.gg/FRJj3eJFJJ
