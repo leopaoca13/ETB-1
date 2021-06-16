@@ -2,13 +2,13 @@
   "proxies":["https://trades.roblox.com/"
   ],
   "cantsendinterval":1000,
-  "DISCORD_ID": "693482849914847282",
-  "CMDS": "770768441614532688",
+  "DISCORD_ID": "792136946993332245",
+  "CMDS": "854720992752697357",
   "notifs": [
-    "819560203284512809"
+    "854720992752697357"
   ],
-  "NOTIF_CHANNEL": "775072489386016768",
-  "TRADE_CHANNEL": "775072489386016768",
+  "NOTIF_CHANNEL": "854720992752697357",
+  "TRADE_CHANNEL": "854720992752697357",
   "colors": {
     "inbound": "GREEN",
     "declined": "RED",
@@ -30,7 +30,7 @@
   "testmode": true,
   "custom_values": {},
   "accept_ratio": 1.1,
-  "USER_ID": 895445660,
+  "USER_ID": 2381110958,
   "upgbias": 0,
   "plugger9000_enabled": false,
   "avoid_devpois_like_the_fucking_plague": true,
