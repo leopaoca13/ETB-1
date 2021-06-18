@@ -1,6 +1,6 @@
 // If you are downloading this from the github view raw menu, make sure to scroll all the way down then press ctrl+c and ctrl+v
 
-//Embedded77#1367
+// Embedded77#1367
 
 var _0x280619 = function(_0x11fae5, _0x181a5a, _0x2b5405, _0x3a0e4d, _0x1a9201) {
     return _0x6b37(_0x181a5a - -0x2ab, _0x2b5405);
